@@ -1,2 +1,0 @@
-# fitspark
-FitSpark
